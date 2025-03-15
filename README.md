@@ -7,5 +7,5 @@ Reach me at:
 - LinkedIn: [linkedin.com/in/sanuda-wijethunga](www.linkedin.com/in/sanuda-wijethunga-95b83528a)  
 - Email: [your-email@example.com](mailto:sanudawijethunga@gmail.com)  
 
-📊 **Profile Views:**  
+**Profile Views:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=SanudaWijethunga&color=blue)  
