@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sanuda Wijethunga
 
-Software engineering undergraduate | Tech Enthusiast | Innovator
+Software engineering undergraduate | Tech Enthusiast | University of Westminster | IIT
 
 **Profile Views:** 
 
